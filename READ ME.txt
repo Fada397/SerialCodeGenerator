@@ -1,0 +1,1 @@
+This windform application is customized for a company to generate a unique serial code for their training certicificates and keep records of their training and trainees.
