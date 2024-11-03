@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a simple PHP script to generate customized serial codes for training certificates. The serial codes are designed to be 
+This project provides a simple c#.NET to generate customized serial codes for training certificates. The serial codes are designed to be 
 unique and can include components such as the company's initials, the year of issue, and a random alphanumeric string.
 
 ## Features
@@ -10,7 +10,7 @@ unique and can include components such as the company's initials, the year of is
 - Generate serial codes in the format `COMP-YYYY-XXXXX`
 - Ensure uniqueness of generated codes
 - Easy to integrate into existing applications
-- Lightweight and straightforward PHP implementation
+- Lightweight and straightforward C# implementation
 
 ### Installation
 
